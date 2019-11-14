@@ -1,1 +1,7 @@
+<
+<<<<<< HEAD
 This is a new file for github from neda
+=======
+Hello!! let's go collaboration - Sirasak 
+>>>>>>> 0f07ccd1cdd145ec191c9db0749b06619ce06952
+I made a change here 
